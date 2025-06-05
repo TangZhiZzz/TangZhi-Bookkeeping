@@ -45,7 +45,7 @@
 
 1. 克隆项目到本地
 ```bash
-git clone https://github.com/yourusername/TangZhi-Bookkeeping.git
+git clone https://github.com/TangZhiZzz/TangZhi-Bookkeeping.git
 ```
 
 2. 使用HBuilderX打开项目
