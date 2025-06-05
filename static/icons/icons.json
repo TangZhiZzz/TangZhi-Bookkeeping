@@ -1,0 +1,166 @@
+{
+  "icons": [
+    {
+      "name": "account",
+      "path": "/static/icons/account.svg",
+      "category": "common"
+    },
+    {
+      "name": "car",
+      "path": "/static/icons/car.svg",
+      "category": "transportation"
+    },
+    {
+      "name": "check",
+      "path": "/static/icons/check.svg",
+      "category": "common"
+    },
+    {
+      "name": "close",
+      "path": "/static/icons/close.svg",
+      "category": "common"
+    },
+    {
+      "name": "clothing",
+      "path": "/static/icons/clothing.svg",
+      "category": "expense"
+    },
+    {
+      "name": "communication",
+      "path": "/static/icons/communication.svg",
+      "category": "expense"
+    },
+    {
+      "name": "education",
+      "path": "/static/icons/education.svg",
+      "category": "expense"
+    },
+    {
+      "name": "entertainment",
+      "path": "/static/icons/entertainment.svg",
+      "category": "expense"
+    },
+    {
+      "name": "expense",
+      "path": "/static/icons/expense.svg",
+      "category": "common"
+    },
+    {
+      "name": "fitness",
+      "path": "/static/icons/fitness.svg",
+      "category": "expense"
+    },
+    {
+      "name": "food",
+      "path": "/static/icons/food.svg",
+      "category": "expense"
+    },
+    {
+      "name": "gift",
+      "path": "/static/icons/gift.svg",
+      "category": "expense"
+    },
+    {
+      "name": "graph",
+      "path": "/static/icons/graph.svg",
+      "category": "common"
+    },
+    {
+      "name": "home",
+      "path": "/static/icons/home.svg",
+      "category": "common"
+    },
+    {
+      "name": "housing",
+      "path": "/static/icons/housing.svg",
+      "category": "expense"
+    },
+    {
+      "name": "income",
+      "path": "/static/icons/income.svg",
+      "category": "common"
+    },
+    {
+      "name": "investment",
+      "path": "/static/icons/investment.svg",
+      "category": "income"
+    },
+    {
+      "name": "medical",
+      "path": "/static/icons/medical.svg",
+      "category": "expense"
+    },
+    {
+      "name": "office",
+      "path": "/static/icons/office.svg",
+      "category": "expense"
+    },
+    {
+      "name": "other",
+      "path": "/static/icons/other.svg",
+      "category": "common"
+    },
+    {
+      "name": "plus-circle",
+      "path": "/static/icons/plus-circle.svg",
+      "category": "common"
+    },
+    {
+      "name": "right",
+      "path": "/static/icons/right.svg",
+      "category": "common"
+    },
+    {
+      "name": "rmb-circle",
+      "path": "/static/icons/rmb-circle.svg",
+      "category": "common"
+    },
+    {
+      "name": "shopping-cart",
+      "path": "/static/icons/shopping-cart.svg",
+      "category": "expense"
+    },
+    {
+      "name": "transportation",
+      "path": "/static/icons/transportation.svg",
+      "category": "expense"
+    },
+    {
+      "name": "travel",
+      "path": "/static/icons/travel.svg",
+      "category": "expense"
+    },
+    {
+      "name": "utility",
+      "path": "/static/icons/utility.svg",
+      "category": "expense"
+    },
+    {
+      "name": "video",
+      "path": "/static/icons/video.svg",
+      "category": "entertainment"
+    }
+  ],
+  "categories": [
+    {
+      "id": "common",
+      "name": "通用图标"
+    },
+    {
+      "id": "expense",
+      "name": "支出类别"
+    },
+    {
+      "id": "income",
+      "name": "收入类别"
+    },
+    {
+      "id": "transportation",
+      "name": "交通出行"
+    },
+    {
+      "id": "entertainment",
+      "name": "娱乐休闲"
+    }
+  ]
+}

@@ -1,0 +1,132 @@
+{
+  "expense_categories": [
+    {
+      "id": "food",
+      "name": "餐饮",
+      "icon": "food",
+      "description": "餐厅、外卖、零食等餐饮消费"
+    },
+    {
+      "id": "shopping",
+      "name": "购物",
+      "icon": "shopping-cart",
+      "description": "日常购物、网购等消费"
+    },
+    {
+      "id": "clothing",
+      "name": "服饰",
+      "icon": "clothing",
+      "description": "衣服、鞋帽、配饰等服装消费"
+    },
+    {
+      "id": "transportation",
+      "name": "交通",
+      "icon": "transportation",
+      "description": "公交、地铁、打车等交通费用"
+    },
+    {
+      "id": "housing",
+      "name": "住房",
+      "icon": "housing",
+      "description": "房租、物业费、装修等住房相关费用"
+    },
+    {
+      "id": "utility",
+      "name": "水电煤",
+      "icon": "utility",
+      "description": "水费、电费、燃气费等生活缴费"
+    },
+    {
+      "id": "communication",
+      "name": "通讯",
+      "icon": "communication",
+      "description": "话费、宽带、网络等通讯费用"
+    },
+    {
+      "id": "entertainment",
+      "name": "娱乐",
+      "icon": "entertainment",
+      "description": "电影、游戏、音乐等娱乐消费"
+    },
+    {
+      "id": "travel",
+      "name": "旅行",
+      "icon": "travel",
+      "description": "旅游、度假、酒店等旅行费用"
+    },
+    {
+      "id": "medical",
+      "name": "医疗",
+      "icon": "medical",
+      "description": "药品、诊疗、保健等医疗费用"
+    },
+    {
+      "id": "education",
+      "name": "教育",
+      "icon": "education",
+      "description": "学费、书籍、培训等教育费用"
+    },
+    {
+      "id": "fitness",
+      "name": "健身",
+      "icon": "fitness",
+      "description": "健身房、运动装备等健身费用"
+    },
+    {
+      "id": "office",
+      "name": "办公",
+      "icon": "office",
+      "description": "文具、打印、办公设备等办公费用"
+    },
+    {
+      "id": "gift",
+      "name": "礼物",
+      "icon": "gift",
+      "description": "送礼、红包等礼品费用"
+    },
+    {
+      "id": "car",
+      "name": "汽车",
+      "icon": "car",
+      "description": "油费、保养、停车费等汽车费用"
+    },
+    {
+      "id": "other_expense",
+      "name": "其他支出",
+      "icon": "other",
+      "description": "其他未分类的支出"
+    }
+  ],
+  "income_categories": [
+    {
+      "id": "salary",
+      "name": "工资",
+      "icon": "income",
+      "description": "工资、奖金、补贴等工作收入"
+    },
+    {
+      "id": "investment",
+      "name": "投资",
+      "icon": "investment",
+      "description": "股票、基金、理财等投资收益"
+    },
+    {
+      "id": "parttime",
+      "name": "兼职",
+      "icon": "income",
+      "description": "兼职、副业等额外工作收入"
+    },
+    {
+      "id": "gift_income",
+      "name": "礼金",
+      "icon": "gift",
+      "description": "收到的礼金、红包等"
+    },
+    {
+      "id": "other_income",
+      "name": "其他收入",
+      "icon": "other",
+      "description": "其他未分类的收入"
+    }
+  ]
+}

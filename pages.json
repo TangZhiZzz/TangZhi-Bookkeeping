@@ -1,0 +1,39 @@
+{
+	"pages": [{
+		"path": "pages/index/tabBar",
+		"style": {
+			"navigationBarTitleText": "TangZhi记账",
+			"navigationStyle": "custom"
+		}
+	},{
+		"path": "pages/icon-demo",
+		"style": {
+			"navigationBarTitleText": "图标",
+			"navigationStyle": "custom"
+		}
+	},{
+		"path": "pages/category/index",
+		"style": {
+			"navigationBarTitleText": "分类管理",
+			"navigationStyle": "custom"
+		}
+	},{
+		"path": "pages/category/edit",
+		"style": {
+			"navigationBarTitleText": "分类编辑",
+			"navigationStyle": "custom"
+		}
+	},{
+		"path": "pages/transaction/index",
+		"style": {
+			"navigationBarTitleText": "账单管理",
+			"navigationStyle": "custom"
+		}
+	},{
+		"path": "pages/transaction/detail",
+		"style": {
+			"navigationBarTitleText": "账单详情",
+			"navigationStyle": "custom"
+		}
+	}]
+}
